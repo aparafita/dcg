@@ -3,8 +3,7 @@
 This repository contains all three libraries necessary for training Deep Causal Graphs (DCG),
 models for causal query estimation without estimands.
 
-The "paper" release includes a zip file with all experiments included in the paper
-"Estimand-Agnostic Causal Query Estimation with Deep Causal Graphs".
+The "thesis" release includes a zip file with all experiments included in the dissertation.
 
 
 # Installation
